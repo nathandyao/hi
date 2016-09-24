@@ -12,7 +12,7 @@ function parseText(text) {
   if (text === "Good bye") {
     gameOutput.html("Bye!");
   }else if (text==="name?") {
-    gameOutput.html("hiihhihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihhihihihiihiihihihiihihihihihiihihihhihihihiihihihiihihihihihhiihihihihihiihhihiihihihihihihiihihihihiihihhihihhihiihhhihiihhihihihiiihhhihih")
+    gameOutput.html("hiihhihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihhihihihiihiihihihiihihihihihiihihihhihihihiihihihiihihihihihhiihihihihihiihhihiihihihihihihiihihihihiihihhihihhihiihhhihiihhihihihiiihhhihihihihihihihihihihiihihihihihhihihihihhihiihhihihiihhiihhiihhihihihihiihhihihhihhihihiihihhhihihihhiihhihihihihihihiihihihihihihihhiihihihihihihihihihihihihihhihihihihihihiihihihiihihihiihihihihihihiihihihiihihihiihihihiihihihiihihiihiihhihiihihihiihihihihihihih")
   } else if (text === "robot come out!") {
     gameOutput.html("🤖️🤖️")
   } else if (text==="move"){
